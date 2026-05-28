@@ -8,7 +8,7 @@
           <mxGeometry height="525" width="1210" x="-370" y="357.5" as="geometry" />
         </mxCell>
         <mxCell id="4JiVcEvjGNyu4woHc15I-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;HAMMERHEAD Electrical SID&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="410" x="-370" y="10" as="geometry" />
+          <mxGeometry height="40" width="410" x="-370" y="30" as="geometry" />
         </mxCell>
         <mxCell id="vFIPZu_FlFwoJPTJW3Pu-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="LattePanda" vertex="1">
           <mxGeometry height="60" width="120" x="-210" y="667.5" as="geometry" />
