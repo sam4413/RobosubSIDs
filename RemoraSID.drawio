@@ -7,7 +7,7 @@
         <mxCell id="u2HFE8Jo-7b_jSfVQRqa-62" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;fillColor=none;strokeColor=#3333FF;" value="" vertex="1">
           <mxGeometry height="525" width="1210" x="-370" y="357.5" as="geometry" />
         </mxCell>
-        <mxCell id="u2HFE8Jo-7b_jSfVQRqa-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;REMORA Electrical Hardware Interface Document&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="u2HFE8Jo-7b_jSfVQRqa-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;REMORA Hardware Interface Document&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="730" x="-370" y="90" as="geometry" />
         </mxCell>
         <mxCell id="u2HFE8Jo-7b_jSfVQRqa-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="LattePanda" vertex="1">
